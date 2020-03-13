@@ -1,0 +1,11 @@
+C:\Users\mylif\source\repos\AlarmClock\bin\Debug\netcoreapp3.0\AlarmClock.exe
+C:\Users\mylif\source\repos\AlarmClock\bin\Debug\netcoreapp3.0\AlarmClock.deps.json
+C:\Users\mylif\source\repos\AlarmClock\bin\Debug\netcoreapp3.0\AlarmClock.runtimeconfig.json
+C:\Users\mylif\source\repos\AlarmClock\bin\Debug\netcoreapp3.0\AlarmClock.runtimeconfig.dev.json
+C:\Users\mylif\source\repos\AlarmClock\bin\Debug\netcoreapp3.0\AlarmClock.dll
+C:\Users\mylif\source\repos\AlarmClock\bin\Debug\netcoreapp3.0\AlarmClock.pdb
+C:\Users\mylif\source\repos\AlarmClock\obj\Debug\netcoreapp3.0\AlarmClock.csprojAssemblyReference.cache
+C:\Users\mylif\source\repos\AlarmClock\obj\Debug\netcoreapp3.0\AlarmClock.AssemblyInfoInputs.cache
+C:\Users\mylif\source\repos\AlarmClock\obj\Debug\netcoreapp3.0\AlarmClock.AssemblyInfo.cs
+C:\Users\mylif\source\repos\AlarmClock\obj\Debug\netcoreapp3.0\AlarmClock.dll
+C:\Users\mylif\source\repos\AlarmClock\obj\Debug\netcoreapp3.0\AlarmClock.pdb
